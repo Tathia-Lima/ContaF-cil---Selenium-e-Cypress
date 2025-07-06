@@ -213,6 +213,11 @@ POST /reset
 - **Mantenha o `chromedriver.exe` sempre atualizado** conforme seu navegador.
 - Testes automatizados são uma forma poderosa de garantir a **qualidade contínua** do sistema.
 
+
+
+OBSERVAÇÂO: O código tem muitos comentários para ajudar na comparação do cypress e do selenium, essa não é uma boa prática e não é recomendável. Eles serão retirados após a conclusão do projeto.
+O aplicativo não está finalizado, tem muitos detalhes que precisam ser corrigidos, mas dá para aprender muito utilizando o app.
+
 ---
 
 🧪 *Automatize com confiança. Garanta qualidade com velocidade!*  
